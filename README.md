@@ -24,6 +24,6 @@ I chose the programs with the most interesting output. Finially, I used [Text to
 
 which are [FattiPattiFLF](https://www.whatfontis.com/FF_FattiPattiFLF.font?text=BASIC)
 
-and [OptiPlanet-Light](https://www.ffonts.net/OPTIPlanet-Light.font?text=101 Great Games)
+and [OptiPlanet-Light](https://www.ffonts.net/OPTIPlanet-Light.font?text=Games)
 
 and I didn't end up using [Trumania EEN](https://www.ffonts.net/Trumania-EEN-Plain.font?text=Blackjack) but you know you want to
