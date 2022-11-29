@@ -1,6 +1,6 @@
 # Broken Computer Games
 
-Broken Computer Games is a generated book for [NaNoGenMo2022](https://github.com/NaNoGenMo/2022) (National Novel Generation Month).
+[Broken Computer Games](https://archive.org/details/broken-computer-games) is a generated book for [NaNoGenMo2022](https://github.com/NaNoGenMo/2022) (National Novel Generation Month).
 
 "Broken" is based on the real book [Basic Computer Games by David Ahl](https://www.atariarchives.org/basicgames/). That book was published by Dave Ahl in 1978, and he [put it into the public domain](https://blog.adafruit.com/2022/06/16/david-ahl-places-all-his-classic-computing-publications-into-the-public-domain/) in 2022. Basic Computer Games was the first computer book to sell one million copies, and taught a generation of budding programers how to program in the BASIC language.
 
