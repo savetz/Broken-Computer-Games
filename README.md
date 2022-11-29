@@ -6,7 +6,7 @@ Broken Computer Games is a generated book for [NaNoGenMo2022](https://github.com
 
 This little python script randomly selects two of the Basic computer games and mashes them up by choosing a few lines of code from each program. I generated hundreds of these, then ran the programs in [pybasic](https://github.com/richpl/PyBasic) and chose the ones with the most interesting output.
 
-    for i in {001..500}; do python3 go.py > program$i.bas ; echo "load program$i\nrun\n2\n3\n4\nexit\n" \
+    for i in {001..500}; do python3 mashup.py > program$i.bas ; echo "load program$i\nrun\n2\n3\n4\nexit\n" \
     | python3 pybasic/interpreter.py | tail +10 | sed 's/^.*###/###/' | grep -v "Program read from file" \
     > output/output$i.txt ; echo "----" ; done
 
