@@ -11,9 +11,15 @@ This little python script randomly selects two of the Basic Computer Games and m
     > output/output$i.txt ; echo "----" ; done
 
 [Read Broken Computer Games](https://archive.org/details/broken-computer-games)
+
 [Read BASIC Computer Games](https://archive.org/details/Basic_Computer_Games_Microcomputer_Edition_1978_Creative_Computing)
+
 [Code from the book came from vintage-basic.net](http://www.vintage-basic.net/games.html)
+
 [What Font Is?](https://www.whatfontis.com) identified fonts for the cover
+
 which are [FattiPattiFLF](https://www.whatfontis.com/FF_FattiPattiFLF.font?text=BASIC)
+
 and [OptiPlanet-Light](https://www.ffonts.net/OPTIPlanet-Light.font?text=101%40Great%40Games)
+
 and I didn't end up using [Trumania EEN](https://www.ffonts.net/Trumania-EEN-Plain.font?text=Blackjack) but you know you want to
