@@ -4,7 +4,7 @@ Broken Computer Games is a generated book for [NaNoGenMo2022](https://github.com
 
 "Broken" is based on the real book [Basic Computer Games by David Ahl](https://www.atariarchives.org/basicgames/). That book was published by Dave Ahl in 1978, and he [put it into the public domain](https://blog.adafruit.com/2022/06/16/david-ahl-places-all-his-classic-computing-publications-into-the-public-domain/) in 2022. Basic Computer Games was the first computer book to sell one million copies, and taught a generation of budding programers how to program in the BASIC language.
 
-This little python script randomly selects two of the Basic Computer Games and mashes them up by choosing lines of code from each program. I generated hundreds of them, then ran the programs in [pybasic](https://github.com/richpl/PyBasic) and chose the ones with the most intersting output.
+This little python script randomly selects two of the Basic computer games and mashes them up by choosing a few lines of code from each program. I generated hundreds of these, then ran the programs in [pybasic](https://github.com/richpl/PyBasic) and chose the ones with the most interesting output.
 
     for i in {001..500}; do python3 go.py > program$i.bas ; echo "load program$i\nrun\n2\n3\n4\nexit\n" \
     | python3 pybasic/interpreter.py | tail +10 | sed 's/^.*###/###/' | grep -v "Program read from file" \
