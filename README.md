@@ -16,7 +16,7 @@ I chose the programs with the most interesting output. Finially, I used [Text to
 
 [More info about this project at NaNoGenMo](https://github.com/NaNoGenMo/2022/issues/42)
 
-[Read BASIC Computer Games](https://archive.org/details/Basic_Computer_Games_Microcomputer_Edition_1978_Creative_Computing)
+[Read the real BASIC Computer Games](https://archive.org/details/Basic_Computer_Games_Microcomputer_Edition_1978_Creative_Computing)
 
 [Code from the book came from vintage-basic.net](http://www.vintage-basic.net/games.html)
 
